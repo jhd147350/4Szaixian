@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="4Szaixian"
+  id="myeclipse.1447400599685"
+  context-root="/4Szaixian"
+  j2ee-spec="6.0"
+  archive="4Szaixian.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
